@@ -6,6 +6,7 @@ this repository contains a description of algorithms using turing machines
 
 ## Build
 ```
+npm install
 npm run build
 ```
 ## Para usar
