@@ -4,13 +4,12 @@ this repository contains a description of algorithms using turing machines
 # Desafio estagiário: HTML/CSS/JS
 
 
-### Build
+## Build
 ```
 npm run build
 ```
-
-Após o build da aplicação, os arquivos minificados estarão em:
-
+## Para usar
+Após o build da aplicação, os arquivos necessarios estarao em:
 ```
 min/
 ```
